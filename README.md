@@ -64,6 +64,7 @@
 
 ## 🏆 AWARDS & FELLOWSHIPS  
 
+- SDP< Oxford (2025)
 - **David B. Mitchell Graduate Scholarship, University of Calgary** *(2024)*  
 - **CRTC-CCA Prize for Excellence in Policy Research, Government of Canada** *(2024)*  
 - **University of Calgary Teaching Award, Taylor Institute** *(2023)*  
