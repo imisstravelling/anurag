@@ -1,6 +1,11 @@
 title: Anurag
 theme: jekyll-theme-minimal
-logo: ""
-description: ""
-show_downloads: false
-google_analytics: ""
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research
+  - title: "CV"
+    url: /cv
+  - title: "About"
+    url: /about
